@@ -1,6 +1,6 @@
 # AI-Toolbelt
 
-This repository contains a curated list of free AI products and services to help increase productivity. Whether you're a student, a freelancer, or an entrepreneur, you'll find something here that can help you be more productive and efficient.
+This repository contains a curated list of AI products and services to help increase productivity. Whether you're a student, a freelancer, or an entrepreneur, you'll find something here that can help you be more productive and efficient.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This repository contains a curated list of free AI products and services to help
 
 ## Text and Language
 
-- [Grammarly](https://www.grammarly.com/) - A writing assistant that helps you improve your writing and grammar.
+- [Copy.ai](https://www.copy.ai/) - Copy.ai is an AI-powered writing tool that generates high-quality text based on user prompts and can mimic the style and tone of different brands and writers.
 - [Hemingway](http://www.hemingwayapp.com/) - An app that makes your writing bold and clear.
 - [Linguix](https://linguix.com/) - An AI-powered writing assistant that checks your grammar, style, and tone.
 
