@@ -12,7 +12,7 @@ This repository contains a curated list of AI products and services to help incr
 ## Text and Language
 
 - [Copy.ai](https://www.copy.ai/) - Copy.ai is an AI-powered writing tool that generates high-quality text based on user prompts and can mimic the style and tone of different brands and writers.
-- [Hemingway](http://www.hemingwayapp.com/) - An app that makes your writing bold and clear.
+- [Writesonic](https://writesonic.com/) - Writesonic is an AI-powered writing tool that generates high-quality text using natural language processing. It offers features like blog post and social media post generation.
 - [Linguix](https://linguix.com/) - An AI-powered writing assistant that checks your grammar, style, and tone.
 
 ## Productivity Tools
